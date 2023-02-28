@@ -1,0 +1,57 @@
+.profile{
+    width: 350px;
+    height: 350px;
+
+   
+}
+.logo{
+    width: 200px;
+    height: 200px;
+}
+.banner{
+    margin-left: 40%;
+    
+}
+.adama{
+    margin-left: -15%;
+}
+.title{
+    margin-left: 0%;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.main{
+    display: flex ;
+    justify-content: space-evenly;
+}
+.thevideo{
+    margin-left: 5%;
+
+}
+.posture{
+    margin-left: 20%;
+
+}
+.header{
+    display: flex;
+    justify-content: space-evenly;
+}
+.posture{
+    width: 60%;
+    height: 500px;
+}
+a{
+    text-decoration: none;
+    color: red;
+    margin-left: 20%;
+    font-size: larger;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    
+}
+a:hover{
+    color: black;
+}
